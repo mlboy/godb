@@ -1,3 +1,7 @@
+本仓库不在更新,请使用新仓库:
+https://github.com/rushteam/gosql
+
+
 # gosql
 
 A golang ORM 
